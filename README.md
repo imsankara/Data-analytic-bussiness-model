@@ -12,4 +12,9 @@ It will be more precisely
 All are inter-related to same data set
 
 
+By using this data sets we are going to find the informations that are need 
+for exective team members
+
+
+
   
